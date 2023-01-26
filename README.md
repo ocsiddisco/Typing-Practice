@@ -4,7 +4,7 @@ This short project is part of an advent calendar. The HTML and CSS files are pro
 
 On top of the initial exercice, there is now a count of the correct/wrong answers, and possibility to reset the count.
 
-What is your score?
+What score did you get?
 
 ## Screenshot
 
